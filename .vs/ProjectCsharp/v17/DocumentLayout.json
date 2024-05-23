@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitor\\source\\repos\\ProjectCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE074A73-1138-4232-A6CA-72E9F6F81F0C}|ProjectCsharp\\ProjectCsharp.csproj|c:\\users\\vitor\\source\\repos\\projectcsharp\\projectcsharp\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE074A73-1138-4232-A6CA-72E9F6F81F0C}|ProjectCsharp\\ProjectCsharp.csproj|solutionrelative:projectcsharp\\iadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE074A73-1138-4232-A6CA-72E9F6F81F0C}|ProjectCsharp\\ProjectCsharp.csproj|c:\\users\\vitor\\source\\repos\\projectcsharp\\projectcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE074A73-1138-4232-A6CA-72E9F6F81F0C}|ProjectCsharp\\ProjectCsharp.csproj|solutionrelative:projectcsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE074A73-1138-4232-A6CA-72E9F6F81F0C}|ProjectCsharp\\ProjectCsharp.csproj|c:\\users\\vitor\\source\\repos\\projectcsharp\\projectcsharp\\salario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE074A73-1138-4232-A6CA-72E9F6F81F0C}|ProjectCsharp\\ProjectCsharp.csproj|solutionrelative:projectcsharp\\salario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE074A73-1138-4232-A6CA-72E9F6F81F0C}|ProjectCsharp\\ProjectCsharp.csproj|c:\\users\\vitor\\source\\repos\\projectcsharp\\projectcsharp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE074A73-1138-4232-A6CA-72E9F6F81F0C}|ProjectCsharp\\ProjectCsharp.csproj|solutionrelative:projectcsharp\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\ProjectCsharp\\ProjectCsharp\\Menu.cs",
+              "RelativeDocumentMoniker": "ProjectCsharp\\Menu.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\ProjectCsharp\\ProjectCsharp\\Menu.cs",
+              "RelativeToolTip": "ProjectCsharp\\Menu.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T16:12:23.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAdd.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\ProjectCsharp\\ProjectCsharp\\IAdd.cs",
+              "RelativeDocumentMoniker": "ProjectCsharp\\IAdd.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\ProjectCsharp\\ProjectCsharp\\IAdd.cs",
+              "RelativeToolTip": "ProjectCsharp\\IAdd.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:47:12.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Salario.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\ProjectCsharp\\ProjectCsharp\\Salario.cs",
+              "RelativeDocumentMoniker": "ProjectCsharp\\Salario.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\ProjectCsharp\\ProjectCsharp\\Salario.cs",
+              "RelativeToolTip": "ProjectCsharp\\Salario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T15:46:44.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitor\\source\\repos\\ProjectCsharp\\ProjectCsharp\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectCsharp\\Program.cs",
+              "ToolTip": "C:\\Users\\vitor\\source\\repos\\ProjectCsharp\\ProjectCsharp\\Program.cs",
+              "RelativeToolTip": "ProjectCsharp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T23:23:14.806Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

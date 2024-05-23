@@ -1,0 +1,14 @@
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\bin\Debug\net8.0\ProjectCsharp.exe
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\bin\Debug\net8.0\ProjectCsharp.deps.json
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\bin\Debug\net8.0\ProjectCsharp.runtimeconfig.json
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\bin\Debug\net8.0\ProjectCsharp.dll
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\bin\Debug\net8.0\ProjectCsharp.pdb
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\net8.0\ProjectCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\net8.0\ProjectCsharp.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\net8.0\ProjectCsharp.AssemblyInfo.cs
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\net8.0\ProjectCsharp.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\net8.0\ProjectCsharp.dll
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\net8.0\refint\ProjectCsharp.dll
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\net8.0\ProjectCsharp.pdb
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\net8.0\ProjectCsharp.genruntimeconfig.cache
+C:\Users\vitor\source\repos\ProjectCsharp\ProjectCsharp\obj\Debug\net8.0\ref\ProjectCsharp.dll
